@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29e810ac-09f2-4ed5-99cd-bfbe4282e210" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/regex-learning/soma/java/regex/FirstProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/regex-learning/soma/java/regex/FirstProgram.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/soma/java/regex/FirstProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/soma/java/regex/FirstProgram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,21 +54,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="639" height="181" key="GridCell.Tab.0.bottom" timestamp="1580983506775">
+    <state width="639" height="181" key="GridCell.Tab.0.bottom" timestamp="1580984147033">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="639" height="181" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580983506775" />
-    <state width="639" height="181" key="GridCell.Tab.0.center" timestamp="1580983506775">
+    <state width="639" height="181" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580984147033" />
+    <state width="639" height="181" key="GridCell.Tab.0.center" timestamp="1580984147033">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="639" height="181" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580983506775" />
-    <state width="639" height="181" key="GridCell.Tab.0.left" timestamp="1580983506774">
+    <state width="639" height="181" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580984147033" />
+    <state width="639" height="181" key="GridCell.Tab.0.left" timestamp="1580984147033">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="639" height="181" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580983506774" />
-    <state width="639" height="181" key="GridCell.Tab.0.right" timestamp="1580983506775">
+    <state width="639" height="181" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580984147033" />
+    <state width="639" height="181" key="GridCell.Tab.0.right" timestamp="1580984147033">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="639" height="181" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580983506775" />
+    <state width="639" height="181" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580984147033" />
   </component>
 </project>
