@@ -4,6 +4,10 @@ import java.util.regex.Pattern;
 
 public class PatternSplit {
     public static void main(String[] args) {
+
+        /**
+         * Pattern Class split method takes target string as the argument
+         */
         String line = "My name is Mahendra Prajapati";
         Pattern pattern = Pattern.compile("\\s");
 
