@@ -2,13 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29e810ac-09f2-4ed5-99cd-bfbe4282e210" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/regex-learning/soma/java/regex/FirstProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/regex-learning/soma/java/regex/FirstProgram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/soma/java/regex/FirstProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/soma/java/regex/FirstProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/soma/java/regex/SecondProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="regex-learning" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -23,7 +33,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.SecondProgram">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="soma.java.regex.FirstProgram" />
       <module name="regex-learning" />
@@ -34,8 +44,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SecondProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="soma.java.regex.SecondProgram" />
+      <module name="regex-learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="soma.java.regex.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.SecondProgram" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SecondProgram" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -54,21 +82,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="639" height="181" key="GridCell.Tab.0.bottom" timestamp="1580984147033">
+    <state width="639" height="181" key="GridCell.Tab.0.bottom" timestamp="1580990461825">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="639" height="181" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580984147033" />
-    <state width="639" height="181" key="GridCell.Tab.0.center" timestamp="1580984147033">
+    <state width="639" height="181" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580990461825" />
+    <state width="639" height="181" key="GridCell.Tab.0.center" timestamp="1580990461824">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="639" height="181" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580984147033" />
-    <state width="639" height="181" key="GridCell.Tab.0.left" timestamp="1580984147033">
+    <state width="639" height="181" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580990461824" />
+    <state width="639" height="181" key="GridCell.Tab.0.left" timestamp="1580990461824">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="639" height="181" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580984147033" />
-    <state width="639" height="181" key="GridCell.Tab.0.right" timestamp="1580984147033">
+    <state width="639" height="181" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580990461824" />
+    <state width="639" height="181" key="GridCell.Tab.0.right" timestamp="1580990461825">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="639" height="181" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580984147033" />
+    <state width="639" height="181" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580990461825" />
   </component>
 </project>
